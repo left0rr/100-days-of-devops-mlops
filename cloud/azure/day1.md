@@ -1,9 +1,9 @@
-Day 1 — Azure SSH Key Pair
-🎯 Task
+# Day 1 — Azure SSH Key Pair
+## 🎯 Task
 
 Create an RSA SSH key pair named xfusion-kp in Azure.
 
-🧠 Concepts
+## 🧠 Concepts
 
 Azure CLI
 
@@ -15,7 +15,7 @@ RSA keys
 
 Public vs private keys
 
-🔧 Commands
+## 🔧 Commands
 # Check Azure authentication
 az account show
 
@@ -32,7 +32,7 @@ az sshkey show \
   --name xfusion-kp \
   --resource-group kml_rg_main-e0a9ad31e60c4363
 
-💡 Key takeaway
+# 💡 Key takeaway
 
 ssh-rsa indicates an RSA SSH public key.
 The private key must be kept secret.

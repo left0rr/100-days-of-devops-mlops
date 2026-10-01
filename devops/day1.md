@@ -2,8 +2,7 @@
 
 ## 🎯 Task
 
-Create a user `siva` with a non-interactive shell
-on App Server 2.
+Create a user `siva` with a non-interactive shell on App Server 2.
 
 ## 🧠 Concepts
 
