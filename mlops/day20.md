@@ -132,3 +132,4 @@ Useful commands:
 ```bash
 pgrep -af "mlflow server"
 tail -f /root/code/mlflow-server.log
+```

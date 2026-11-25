@@ -20,3 +20,4 @@ ssh steve@stapp02
 sudo useradd -s /usr/sbin/nologin siva
 
 getent passwd siva
+```

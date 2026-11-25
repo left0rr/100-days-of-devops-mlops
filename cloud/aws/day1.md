@@ -21,3 +21,4 @@ aws ec2 create-key-pair \
 aws ec2 describe-key-pairs \
   --key-names devops-kp \
   --region us-east-1
+```

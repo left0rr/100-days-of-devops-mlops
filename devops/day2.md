@@ -22,3 +22,4 @@ sudo useradd -e 2027-03-28 javed
 sudo chage -l javed
 
 getent passwd javed
+```
